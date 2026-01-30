@@ -1,0 +1,9 @@
+{
+  "name": "Eastside Community Health Collective",
+  "mission": "Provide low-cost preventive community health programs and education to underserved neighborhoods.",
+  "geography": ["Seattle, WA", "King County"],
+  "services": ["preventive care", "health education", "community outreach"],
+  "annual_budget": 350000,
+  "staff_size": 6,
+  "fiscal_year_end": "2026-06-30"
+}
